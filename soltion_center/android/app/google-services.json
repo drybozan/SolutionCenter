@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087008729387",
+    "project_id": "soltion-center",
+    "storage_bucket": "soltion-center.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087008729387:android:76a8399b148387f776fd6e",
+        "android_client_info": {
+          "package_name": "com.example.soltion_center"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087008729387-0btpba6c80g4acns47glosdu2je7qehs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARd0KiLHa4Ot44o9eKd0GWZDUK-OBod_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087008729387-0btpba6c80g4acns47glosdu2je7qehs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
